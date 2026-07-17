@@ -111,4 +111,6 @@ Nesta seção serão adicionadas imagens do NotebookLM demonstrando:
 
 O NotebookLM mostrou-se uma excelente ferramenta para organizar conteúdos, gerar materiais de estudo e facilitar a aprendizagem utilizando Inteligência Artificial.
 
-Este projeto permitiu explorar diversas funcionalidades da plataforma, como geração de resumos, mapas mentais, conteúdos multimídia e organização do conhecimento.
+Este projeto permitiu explorar diversas funcionalidades da plataforma, como geração de resumos, mapas mentais, conteúdos multimídia e organização do conhecimento. 
+Projeto desenvolvido para o desafio da DIO.
+
