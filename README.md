@@ -96,7 +96,17 @@ O NotebookLM foi utilizado para produzir:
 
 # 📷 Capturas do Projeto
 
-Nesta seção serão adicionadas imagens do NotebookLM demonstrando:
+Nesta seção serão adicionadas imagens do NotebookLM demonstrando:<img width="1910" height="1136" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/7383cb83-76d0-47da-9ee6-bf9033bc25ef" />
+
+https://notebooklm.google.com/notebook/2ebb455d-3f31-4dc9-bc02-f05da3caf2c2/artifact/b1d66700-7918-482e-852b-e41b8ad8e68f?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+https://notebooklm.google.com/notebook/2ebb455d-3f31-4dc9-bc02-f05da3caf2c2/artifact/e0ed152e-89a4-4a09-876c-e979ed665a60?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+https://notebooklm.google.com/notebook/2ebb455d-3f31-4dc9-bc02-f05da3caf2c2/artifact/e0ed152e-89a4-4a09-876c-e979ed665a60?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+https://notebooklm.google.com/notebook/2ebb455d-3f31-4dc9-bc02-f05da3caf2c2/artifact/13d82caf-480b-409f-af30-61a40819b969?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+
 
 - Fontes utilizadas
 - Resumos
